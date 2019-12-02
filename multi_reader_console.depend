@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1574859703 source:c:\users\konferencija\desktop\projekti\multi_reader_console\main.cpp
+	<iostream>
+	"ufr-lib/include/uFCoder.h"
+
+1574858695 c:\users\konferencija\desktop\projekti\multi_reader_console\ufr-lib\include\ufcoder.h
+	<stdio.h>
+	<stdint.h>
+	<stddef.h>
+	<jni.h>
+
+1575295047 source:c:\users\konferencija\desktop\projekti\multi_reader_console\src\main.cpp
+	<iostream>
+	"../lib/include/uFCoder.h"
+
+1574858695 c:\users\konferencija\desktop\projekti\multi_reader_console\lib\include\ufcoder.h
+	<stdio.h>
+	<stdint.h>
+	<stddef.h>
+	<jni.h>
+
